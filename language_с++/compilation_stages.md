@@ -73,7 +73,7 @@ g++ file1.cpp file2.cpp -o program
 
 
 Исходный код (.cpp)  
-         ↓  
+&nbsp;&nbsp;&nbsp; ↓  
    [Препроцессор] → main.i  
          ↓  
    [Компилятор] → main.s  
